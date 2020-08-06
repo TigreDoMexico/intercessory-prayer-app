@@ -1,0 +1,3 @@
+[submodule "PrayerApp"]
+	path = PrayerApp
+	url = ./PrayerApp
